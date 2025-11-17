@@ -180,7 +180,7 @@ BEGIN
 END;
 /
 
-📤 Example Output (Matches Your Sample Exactly)
+   Example Output (Matches Your Sample Exactly)
 Work Order Summary  
 -------------------------
 Vehicle Plate       : RAD-123Z
@@ -191,7 +191,7 @@ Labor Rate          : 45
 Total Labor Cost    : 157.5
 Overall Total Cost  : 1007.5
 
-👤 Author
+   Author
 
 Student: ASDODJI Le Sage (27232)
 Course: Database development with PL/SQL
